@@ -5,4 +5,4 @@ mappatemagoccia
 
 documento di avvio per il progetto
 
-il link per accedere alla mappa è http://goo.gl/hK4GlR
+il link per accedere alla mappa è http://goo.gl/lMAHGG
