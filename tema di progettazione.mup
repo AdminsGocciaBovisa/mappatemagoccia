@@ -66,7 +66,7 @@
                               },
                               "ideas": {
                                 "1": {
-                                  "title": "Il palco ÃƒÂ¨ all'interno, in un'area di interesse (es un fabbricato tenuto bene) come scenario, e il pubblico assiste",
+                                  "title": "Il palco è all'interno, in un'area di interesse (es un fabbricato tenuto bene) come scenario, e il pubblico assiste",
                                   "id": 103,
                                   "attr": {
                                     "style": {
@@ -229,7 +229,7 @@
           }
         },
         "2": {
-          "title": "Interventi in piÃ¹ punti nel quartiere",
+          "title": "Interventi in più punti nel quartiere",
           "id": 71,
           "attr": {
             "style": {
@@ -269,7 +269,7 @@
                   },
                   "ideas": {
                     "1": {
-                      "title": "Proiezioni Cinematografiche (Bovisa ÃƒÂ¨ stato il primo centro di produzione cinematografica, poi spostato a Roma CinecittÃƒ  durante il fascimo)",
+                      "title": "Proiezioni Cinematografiche (Bovisa è stato il primo centro di produzione cinematografica, poi spostato a Roma Cinecittàƒ  durante il fascimo)",
                       "id": 63,
                       "ideas": {
                         "22": {
@@ -414,7 +414,7 @@
               },
               "attr": {
                 "style": {
-                  "background": "#E0E0E0"
+                  "background": "transparent"
                 }
               }
             },
@@ -458,7 +458,7 @@
                       },
                       "attr": {
                         "style": {
-                          "background": "#ff6600"
+                          "background": "transparent"
                         }
                       }
                     },
@@ -485,7 +485,7 @@
                       },
                       "attr": {
                         "style": {
-                          "background": "#ff6600"
+                          "background": "transparent"
                         }
                       }
                     },
@@ -504,14 +504,14 @@
                   },
                   "attr": {
                     "style": {
-                      "background": "#ff9900"
+                      "background": "transparent"
                     }
                   }
                 }
               },
               "attr": {
                 "style": {
-                  "background": "#E0E0E0"
+                  "background": "transparent"
                 }
               }
             },
@@ -550,7 +550,7 @@
           },
           "attr": {
             "style": {
-              "background": "#E0E0E0"
+              "background": "transparent"
             }
           }
         },
@@ -568,12 +568,28 @@
             },
             "3": {
               "title": "Zona gasometro demolito",
-              "id": 62
+              "id": 62,
+              "attr": {
+                "style": {
+                  "background": "#333333"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Area scelta in quanto debole \"visivamente\", il muro è interrotto da una rete metallica",
+                  "id": 115,
+                  "attr": {
+                    "style": {
+                      "background": "#333333"
+                    }
+                  }
+                }
+              }
             }
           },
           "attr": {
             "style": {
-              "background": "#E0E0E0"
+              "background": "transparent"
             }
           }
         },
@@ -625,5 +641,10 @@
         }
       }
     }
-  ]
+  ],
+  "attr": {
+    "style": {
+      "background": "#000000"
+    }
+  }
 }
